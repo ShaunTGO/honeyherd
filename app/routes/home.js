@@ -33,8 +33,8 @@ class Home extends PureComponent {
         let { activePanel } = this.state
         return html`
             <${Page}
-                title="Cats"
-                subtitle="React Drive CMS Demo"
+                title="Honey Herd Ranch"
+                subtitle="Home"
                 description="Publish articles directly from Google Drive to your website."
                 sidebarImage=${resolveAsset('/assets/default-sidebar.jpg')}
                 showLinks=${true}

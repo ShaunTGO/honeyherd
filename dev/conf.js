@@ -1,7 +1,9 @@
 window.appConf = {
-    author: 'React Drive CMS',
-    dashboardId: '1-on_GfmvaEcOk7HcWfKb8B6KFRv166RkLN2YmDEtDn4',
+    author: 'Honey Herd Ranch',
+    dashboardId: '15ay3JoT1aW9fp8RNzFGpqOuackM0BZkLZO5Fdhrrx5w',
     sendContactMessageUrlId:
-        'AKfycbyL4vW1UWs4mskuDjLoLmf1Hjan1rTLEca6i2Hi2H_4CtKUN84d',
-    shortname: 'easydrivecms',
+        '1M5ZhofNRe5Kg_kJk0_CrcZHTm9rB-49OKY8vDSThkOJZ2g_-V_KKkIrB',
+    shortname: 'honeyherdranchdisqus',
+    root: 'honeyherd'
 }
+0

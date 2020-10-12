@@ -7,7 +7,7 @@ import resolveAsset from '../utils/resolveAsset.js'
 let About = () => html`
     <${Page}
         title="About"
-        subtitle="React Drive CMS Demo"
+        subtitle="Honey Herd Ranch"
         description="An easy way to publish articles directly from Google Drive"
         sidebarImage=${resolveAsset('/assets/default-about.jpg')}
         showLinks=${true}
